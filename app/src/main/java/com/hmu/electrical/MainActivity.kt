@@ -11,6 +11,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.hmu.electrical.navigation.Screen
+import com.hmu.electrical.navigation.screens
 import com.hmu.electrical.screens.*
 import com.hmu.electrical.ui.theme.HMUAppTheme
 
