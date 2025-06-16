@@ -24,7 +24,7 @@ A modern Android application for Hellenic Mediterranean University - Electrical 
 
 - Android Studio Hedgehog | 2023.1.1 or newer
 - Android SDK 34
-- Kotlin 1.9.0
+- Kotlin 1.9.20
 - Gradle 8.1.0
 
 ## Getting Started
